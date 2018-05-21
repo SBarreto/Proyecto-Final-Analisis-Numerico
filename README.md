@@ -1,5 +1,5 @@
 # Proyecto-Final-Analisis-Numerico #
-##Carpeta Documento: 
+# #Carpeta Documento: 
 Documento de contenido del proyeto
-##Carpeta Implementacion:
+# #Carpeta Implementacion:
 Carpeta conteniendo codigo y software del proyecto.#
