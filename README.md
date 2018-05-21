@@ -11,7 +11,7 @@ En esta carpeta se encuentra el codigo de implementacion del proyecto y sus libr
 
 ## Integrantes:
 
-Miguel Paez
-Alejadnro Mayorga
-Andrés Mariño
-Juan Sebastian Barreto
+*Miguel Paez
+*Alejandro Mayorga
+*Andrés Mariño
+*Juan Sebastian Barreto
