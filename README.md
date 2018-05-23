@@ -9,6 +9,14 @@ documento que describe los diferentes componentes del proyecto, incluyendo marco
 
 En esta carpeta se encuentra el codigo de implementacion del proyecto y sus librerias, desarrollado en Java.
 
+## Carpeta MaquinaIntegradora
+
+En esta carpeta se encuentra el codigo de implementacion del proyecto y sus librerias, con varios ajustes y correcciones.
+
+## Maquina_Integradora.zip
+
+Archivo comprimido con ejecutable para correr aplicacion sin necesidad de un IDE, descomprimirlo y leer instrucciones en README.TXT
+
 ## Integrantes:
 
 * Miguel Paez
